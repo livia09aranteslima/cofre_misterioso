@@ -1,0 +1,55 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: black;
+    color:white;
+    padding: 30px;
+}
+
+h3{
+    color:antiquewhite;
+}
+
+.espace{
+    position: relative;
+    height: 300px;
+    border: 3px dashed #808080;
+    border-radius: 15px;
+}
+
+button{
+    position: absolute;
+    padding: 15px 30px;
+    font-size: 20px;
+    border: none;
+    border-radius: 18px;
+    cursor: pointer;
+}
+
+#cofre1{
+    top: 40%;
+    left: 15%;
+    background-color: blue;
+}
+
+#cofre2{
+    top: 40%;
+    left: 35%;
+    background-color: aqua;
+}
+
+#cofre3{
+    top: 40%;
+    left: 55%;
+    background-color: blueviolet;
+}
+
+#novamente{
+    top: 40%;
+    left: 75%;
+    background-color: white;
+}
+
+.recado{
+    padding: 15px 30px;
+}
